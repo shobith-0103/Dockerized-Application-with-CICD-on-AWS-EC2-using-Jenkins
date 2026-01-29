@@ -13,7 +13,7 @@ html = """
             margin: 0;
             font-family: Arial, sans-serif;
             background: linear-gradient(135deg, #667eea, #764ba2);
-            color: white;
+            color: green;
         }
         header {
             background: rgba(0,0,0,0.3);
@@ -27,7 +27,7 @@ html = """
             text-align: center;
         }
         .card {
-            background: pink;
+            background: brown;
             color: #333;
             padding: 20px;
             margin: 20px auto;
@@ -58,7 +58,7 @@ html = """
     </style>
 </head>
 <body>
-    <header>🚀 Welcome to My Python Website</header>
+    <header>🚀 Whatever it takes!! </header>
 
     <div class="container">
         <h2>Hello!</h2>
